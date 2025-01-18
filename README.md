@@ -65,6 +65,6 @@ A full-stack website built during my internship, featuring both frontend and bac
 ## 💬 Let's Connect  
 
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)   
-- 💼 [LinkedIn](https://www.linkedin.com/in/mhaas02/)  
+- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-handle)  
 
 Feel free to explore my repositories and reach out. Let’s build something amazing together! 🚀  
