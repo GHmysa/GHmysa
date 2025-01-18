@@ -1,6 +1,5 @@
 # 👋 Hi there! Welcome to my GitHub profile  
-
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)  
+ 
 
 ---
 
@@ -17,10 +16,22 @@ With a strong foundation in **computer science**, I bring hands-on experience in
 
 ## 🔧 Skills  
 
-| **Languages**         | **Technologies**        | **Concepts**               |
-|-----------------------|------------------------|----------------------------|
-| Python, C, C++        | Git, Jupyter           | Networking, System Design  |
-| SQL, Bash             | Virtualization         | Linear Programming         |
+### Programming Languages:  
+- **Python**: Scripting, data analysis, and automation.  
+- **C++**: Object-oriented programming and systems development.  
+- **Arduino (C)**: Embedded systems and hardware interaction.  
+- **SQL**: Database management and query optimization.  
+- **Bash**: Shell scripting and Linux system management.  
+
+### Tools & Frameworks:  
+- **Git**: Version control and collaboration.  
+- **Jupyter Notebook**: Interactive computing and data visualization.  
+- **Winform Framework**: GUI development in C++.  
+
+### Core Concepts:  
+- **Networking**: Configuration, troubleshooting, and security.  
+- **System Design**: Efficient and scalable solutions.  
+- **Linear Programming**: Optimization and mathematical modeling.  
 
 ---
 
