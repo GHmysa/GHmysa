@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub profile  
 
-<!--
-**GHmysa/GHmysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+
+I’m an **aspiring cybersecurity engineer** passionate about securing digital environments and solving complex problems.  
+With a strong foundation in **computer science**, I bring hands-on experience in **networking**, **IT support**, and **software development**.  
+
+🌟 **Currently working on:**  
+- 🛡️ A **cybersecurity guide** tailored for individuals and businesses.  
+- 🤝 Collaborative open-source projects in **automation** and **network security**.  
+
+---
+
+## 🔧 Skills  
+
+| **Languages**         | **Technologies**        | **Concepts**               |
+|-----------------------|------------------------|----------------------------|
+| Python, C, C++        | Git, Jupyter           | Networking, System Design  |
+| SQL, Bash             | Virtualization         | Linear Programming         |
+
+---
+
+## 📂 Featured Projects  
+
+### 🛠 [OOP Application with Winform](https://github.com/GHmysa/ProjetPOO)  
+A database-driven application built in **C++** using the **Winform framework**. This project demonstrates my skills in object-oriented programming and UI design.  
+![OOP Project](https://via.placeholder.com/600x300?text=OOP+Winform+Application+Preview)  
+
+### 📚 [Advanced Algorithm Project](https://github.com/GHmysa/AdvancedAlgorithmsProject)  
+A Python-based project focused on solving complex computational problems using advanced algorithms and optimization techniques.  
+![Advanced Algorithm](https://via.placeholder.com/600x300?text=Advanced+Algorithm+Project+Preview)  
+
+### ⚡ [Weather Station Project](https://github.com/GHmysa/Arduino-Weather-Station)  
+A weather station built with **Arduino** that collects and displays real-time environmental data. This project combines programming, hardware integration, and data visualization.  
+![Weather Station](https://via.placeholder.com/600x300?text=Weather+Station+Project+Preview)  
+
+### 🌐 [Internship Website Project](https://github.com/GHmysa/internship-website)  
+A full-stack website built during my internship, featuring both frontend and backend development. Hosted locally, it showcases dynamic content management and user interaction.  
+![Internship Website](https://via.placeholder.com/600x300?text=Internship+Website+Project+Preview) 
+
+---
+
+## 📊 Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHmysa&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GHmysa&layout=compact&theme=radical)  
+
+---
+
+## 💬 Let's Connect  
+
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/mhaas02/)  
+
+Feel free to explore my repositories and reach out. Let’s build something amazing together! 🚀  
