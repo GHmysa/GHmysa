@@ -5,12 +5,37 @@
 
 ## 🌟 About Me  
 
-I’m an **aspiring cybersecurity engineer** passionate about securing digital environments and solving complex problems.  
-With a strong foundation in **computer science**, I bring hands-on experience in **networking**, **IT support**, and **software development**.  
+I’m a **Computer Science engineering student** passionate about building reliable, scalable, and secure digital solutions.  
 
-🌟 **Currently working on:**  
-- 🛡️ A **cybersecurity guide** tailored for individuals and businesses.  
-- 🤝 Training on Cisco Academy Platform and Tryhackme.  
+With hands-on experience in **software development**, **system integration**, and **IT infrastructure**, I enjoy working on projects that combine technical depth with real-world impact.
+
+---
+
+### 🚀 Current Focus  
+
+- 💻 Developing modern web components using **React** and **TypeScript**  
+- 🧩 Working with **component-based architectures** and system integration  
+- 🧠 Strengthening my knowledge in **software architecture & system design**  
+- 🔐 Expanding my skills in **cybersecurity and secure development practices**
+
+---
+
+### 🛠️ Technical Interests  
+
+- Software Engineering  
+- System Architecture  
+- Cybersecurity Fundamentals  
+- Data Processing & Automation  
+- Performance Optimization  
+
+---
+
+### 📚 Continuous Learning  
+
+- Advanced software development practices  
+- Secure coding principles  
+- Networking & infrastructure fundamentals  
+
 
 ---
 
@@ -61,10 +86,5 @@ A full-stack website built during my internship, featuring both frontend and bac
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GHmysa&layout=compact&theme=radical)  
 
 ---
-
-## 💬 Let's Connect  
-
-- 🌐 [Portfolio Website]
-- 💼 [LinkedIn]
 
 Feel free to explore my repositories and reach out. Let’s build something amazing together! 🚀  
