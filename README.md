@@ -80,11 +80,4 @@ A full-stack website built during my internship, featuring both frontend and bac
 
 ---
 
-## 📊 Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHmysa&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GHmysa&layout=compact&theme=radical)  
-
----
-
 Feel free to explore my repositories and reach out. Let’s build something amazing together! 🚀  
