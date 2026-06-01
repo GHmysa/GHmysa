@@ -1,6 +1,4 @@
-# About me
-
-**Software Engineer & Applied ML**
+# Software Engineer & Applied ML
 Dual engineering diploma — CESI Strasbourg (FR) × THM Gießen (DE)
 
 ---
