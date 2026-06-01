@@ -10,11 +10,11 @@ engineering and applied machine learning. I build things with real
 users in mind — not just notebooks and demos.
 
 Currently working on a football score prediction system trained on
-Premier League data, and an AI Tutor Plugin (Vue.js + FastAPI + LLM)
+World Cup data, and an AI Tutor Plugin (Vue.js + FastAPI + LLM)
 deployed on university infrastructure at THM.
 
 Open to a 6-month end-of-studies internship from **February 2027**
-in France (Strasbourg, Paris) or Germany (Karlsruhe, Frankfurt).
+in France (Strasbourg, Paris...) or Germany (Karlsruhe, Frankfurt...).
 
 ---
 
