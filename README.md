@@ -27,7 +27,7 @@ FastAPI web app and World Cup 2026 predictions.
 
 `Python` `scikit-learn` `REST API` `Discord`
 
-### 🤖 AI Tutor Plugin — THM *(in progress)*
+### 🤖 AI Tutor Plugin — THM *(in progress)* (https://github.com/thm-mni-ii/ai-tutor-plugin)
 Full rework of a JupyterLab AI feedback plugin for university use.
 Vue.js frontend migration, FastAPI streaming (SSE), prompt
 engineering on QWEN models, CI/CD deployment on JupyterHub.
