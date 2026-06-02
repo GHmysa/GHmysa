@@ -21,7 +21,7 @@ in France (Strasbourg, Paris...) or Germany (Karlsruhe, Frankfurt...).
 ## Featured Projects
 
 ### 🏆 [Football Score Prediction](https://github.com/GHmysa/predictions-football-bot)
-Predicting Premier League match outcomes using machine learning.
+Predicting World Cup matches outcomes using machine learning.
 Deployed as a Discord bot with real users — roadmap includes a
 FastAPI web app and World Cup 2026 predictions.
 
