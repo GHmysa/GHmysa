@@ -70,7 +70,7 @@ hyperparameter tuning, multi-model comparison.
 
 ## Languages
 
-🇫🇷 French — Native · 🇬🇧 English — C1 · 🇩🇪 German — B1 → B2
+🇫🇷 French — Native · 🇬🇧 English — C1 · 🇩🇪 German — B2
 
 
 
