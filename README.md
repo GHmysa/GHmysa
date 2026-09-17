@@ -1,5 +1,5 @@
 # Software Engineer & Applied ML
-Dual engineering diploma — CESI Strasbourg (FR) × THM Gießen (DE)
+Dual engineering diploma — CESI (FR) × THM (DE)
 
 ---
 
@@ -9,12 +9,11 @@ Final-year computer science engineering student focused on software
 engineering and applied machine learning. I build things with real
 users in mind — not just notebooks and demos.
 
-Currently working on a football score prediction system trained on
-World Cup data, and an AI Tutor Plugin (Vue.js + FastAPI + LLM)
+Currently working on a football score prediction system trained on real data and an AI Tutor Plugin (Vue.js + FastAPI + LLM)
 deployed on university infrastructure at THM.
 
 Open to a 6-month end-of-studies internship from **February 2027**
-in France (Strasbourg, Paris...) or Germany (Karlsruhe, Frankfurt...).
+
 
 ---
 
@@ -52,7 +51,7 @@ hyperparameter tuning, multi-model comparison.
 
 ## Tech Stack
 
-**ML & Data** — Python · scikit-learn · Feature engineering · REST API · MySQL
+**ML & Data** — Python · scikit-learn · Feature engineering · REST API · MySQL/MongoDB
 
 **Frontend** — React · Angular (NgRx) · Vue.js · TypeScript · HTML · CSS
 
@@ -62,6 +61,7 @@ hyperparameter tuning, multi-model comparison.
 
 ## Experience
 
+- **THM Gießen** *(DE)* — Software Engineering/AI Mission · Built an AI tutor plugin inside JupyterLab
 - **DALIM Software** *(Kehl, DE)* — Frontend Intern · React/TS plugin shipped to client prod
 - **THM Gießen** *(DE)* — Software Engineering Mission · Angular architecture refactoring
 - **DGFIP** *(Strasbourg, FR)* — Network & Systems Intern
@@ -70,7 +70,7 @@ hyperparameter tuning, multi-model comparison.
 
 ## Languages
 
-🇫🇷 French — Native · 🇬🇧 English — C1 (TOEIC 965) · 🇩🇪 German — B1 → B2
+🇫🇷 French — Native · 🇬🇧 English — C1 · 🇩🇪 German — B1 → B2
 
 
 
