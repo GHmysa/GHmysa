@@ -1,4 +1,4 @@
-# Software Engineer & Applied ML
+# AI/Data & Applied ML
 Dual engineering diploma — CESI (FR) × THM (DE)
 
 ---
