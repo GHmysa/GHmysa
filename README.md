@@ -19,33 +19,26 @@ Open to a 6-month end-of-studies internship from **February 2027**
 
 ## Featured Projects
 
-### 🏆 [Football Score Prediction](https://github.com/GHmysa/predictions-football-bot)
+### [Football Score Prediction](https://github.com/GHmysa/predictions-football-bot)
 Predicting World Cup matches outcomes using machine learning.
 Deployed as a Discord bot with real users — roadmap includes a
 FastAPI web app and World Cup 2026 predictions.
 
 `Python` `scikit-learn` `REST API` `Discord`
 
-### 🤖 [AI Tutor Plugin — THM](https://github.com/thm-mni-ii/ai-tutor-plugin)
+### [AI Tutor Plugin — THM](https://github.com/thm-mni-ii/ai-tutor-plugin)
 Full rework of a JupyterLab AI feedback plugin for university use.
 Vue.js frontend migration, FastAPI streaming (SSE), prompt
 engineering on QWEN models, CI/CD deployment on JupyterHub.
 
 `Vue.js` `FastAPI` `Python` `LLM` `Jest` `Playwright`
 
-### ⚙️ [SQL Playground Refactoring — THM](https://github.com/thm-mni-ii/feedbacksystem)
+### [SQL Playground Refactoring — THM](https://github.com/thm-mni-ii/feedbacksystem)
 Extracted a tightly coupled Angular module into a standalone app.
 JWT token forwarding via iframe, NgRx state management, zero
 functional regression across the full migration.
 
 `Angular` `TypeScript` `NgRx` `JWT`
-
-### 🧠 Employee Attrition Prediction
-Academic ML project — built the full model training pipeline:
-classifier training, confusion matrix, k-fold cross-validation,
-hyperparameter tuning, multi-model comparison.
-
-`Python` `scikit-learn` `Jupyter`
 
 ---
 
